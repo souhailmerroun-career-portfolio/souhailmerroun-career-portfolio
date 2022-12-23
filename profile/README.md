@@ -8,8 +8,6 @@ A learning and education app that provides users with access to educational cont
 
 A community forum app that allows users to discuss and share information on a wide variety of topics. The app could include features such as user profiles, forums, and the ability to post and reply to messages.
 
-A news and journalism app that provides users with access to the latest news and information from around the world. The app could include features such as personalized news feeds, the ability to search for articles, and the ability to share articles with others.
-
 A weather app that provides users with accurate and up-to-date weather information. The app could include features such as detailed forecasts, weather alerts, and the ability to search for weather information for specific locations.
 
 A music streaming app that allows users to listen to and discover new music. The app could include features such as the ability to search for and play songs, create and share playlists, and view artist and album information.
