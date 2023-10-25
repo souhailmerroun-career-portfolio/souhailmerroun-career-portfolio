@@ -9,4 +9,4 @@ Filter by:
 - [Next.js](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=nextjs)
 - [Bootstrap](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=bootstrap)
 - [Tailwindcss](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=tailwindcss)
-- [Apollo Graphql](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=apollo graphql)
+- [Apollo Graphql](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=apollo+graphql)
