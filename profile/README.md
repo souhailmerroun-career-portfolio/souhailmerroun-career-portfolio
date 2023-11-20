@@ -4,6 +4,13 @@ https://en.wikipedia.org/wiki/Career_portfolio
 
 Work samples and skills. 
 
+Projects: 
+- Open FLL
+- Skedle
+- Vimeet365
+- Yogobe
+
+
 Filter by application:
 - [UI](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=ui)
 - [API](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=api)
@@ -15,3 +22,4 @@ Filter by framework:
 - [Bootstrap](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=bootstrap)
 - [Tailwindcss](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=tailwindcss)
 - [Apollo Graphql](https://github.com/orgs/souhailmerroun-career-portfolio/repositories?q=apollo+graphql)
+
