@@ -12,7 +12,7 @@ Work samples and skills.
 ![Timeline](timeline.png)
 
 ## Web apps
-- [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
+- [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks) (valid until 6th August 2024)
 - Next.js 14 Auth-free: Task management
 
 ## Streamlit apps
