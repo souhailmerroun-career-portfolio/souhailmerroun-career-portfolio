@@ -12,7 +12,7 @@ Work samples and skills.
 ![Timeline](timeline.png)
 
 ## Web apps
-- Laravel x10 & Bootstrap 5: Task management
+- [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
 - Next.js 14 Auth-free: Task management
 
 ## Streamlit apps
