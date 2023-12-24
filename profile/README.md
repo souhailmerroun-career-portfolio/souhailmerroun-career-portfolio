@@ -13,7 +13,11 @@ Work samples and skills.
 
 ## Web apps
 - [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks) (valid until 6th August 2024)
-- Next.js 14 Auth-free: Task management
+- Laravel x10 Task management API (valid until 6th August 2024)
+- Next.js 14 Auth-free: Task management (Prisma ORM .sqlite)
+- Next.js 14 Laravel API
+- React 18 local Task management
+- React 18 Task Laravel API
 
 ## Streamlit apps
 - [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment)
@@ -25,11 +29,12 @@ Work samples and skills.
 - Laravel x10 Nova for dashboard
 
 ## Authentification
-- Authentification (Clerk)
+- Nextjs Clerk
 - Laravel x10 Spa Authentification
 
 ## Billing
 - Billing Stripe Laravel
 
 ## Website
-- Gatsby x
+- Gatsby
+- Wordpress
