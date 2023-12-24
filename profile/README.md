@@ -19,7 +19,13 @@ Work samples and skills.
 - React 18 local Task management
 - React 18 Task Laravel API
 
-## Streamlit apps
+## Mobile apps
+- React Native
+
+## Langchain apps
+- 
+
+## Python Streamlit apps
 - [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment)
 - [crypto-worth](https://github.com/souhailmerroun-poc/crypto-worth)
 - [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
@@ -38,3 +44,4 @@ Work samples and skills.
 ## Website
 - Gatsby
 - Wordpress
+
