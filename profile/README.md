@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Career_portfolio
 
 Work samples and skills. 
 
+- [LinkedIn Profile](https://www.linkedin.com/in/souhailmerroun/)
+- [YouTube Channel](https://www.youtube.com/channel/UCrigMlhA9Zl45Tyg3lvMrRA)
+
 ## Timeline
 
 ![Timeline](timeline.png)
