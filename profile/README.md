@@ -8,6 +8,11 @@ Work samples and skills.
 - Laravel x10 & Bootstrap 5: Task management
 - Next.js 14 Auth-free: Task management
 
+## Streamlit apps
+- [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment)
+- [crypto-worth](https://github.com/souhailmerroun-poc/crypto-worth)
+- [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
+
 ## Rapid dev
 - Laravel x10 Spark for business idea validation
 - Laravel x10 Nova for dashboard
