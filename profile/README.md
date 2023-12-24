@@ -4,6 +4,10 @@ https://en.wikipedia.org/wiki/Career_portfolio
 
 Work samples and skills. 
 
+## Timeline
+
+![Timeline](timeline.png)
+
 ## Web apps
 - Laravel x10 & Bootstrap 5: Task management
 - Next.js 14 Auth-free: Task management
