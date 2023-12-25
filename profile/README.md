@@ -12,15 +12,21 @@ Work samples and skills.
 ![Timeline](timeline.png)
 
 ## Web apps
+
+### React
+- React 18 local Task management
+- React 18 Task Laravel API
+
+### Next.js
+- Next.js 14 Auth-free: Task management (Prisma ORM .sqlite)
+- Next.js 14 Laravel API
+
+### Laravelx10 (valid until 6th August 2024)
 - ✅ [fllmorocco/open app](https://github.com/fllmorocco-org/open) (Closed source / Private demo)
 - ✅ [kitefor.events](https://github.com/skedle-for-events/laravel-v1) (Closed source / Private demo)
 - ✅🚧 [Laravel x10 Starter](https://github.com/souhailmerroun-career-portfolio/laravelx10-starter)
-- 🚧 [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks) (valid until 6th August 2024)
-- Laravel x10 Task management API (valid until 6th August 2024)
-- Next.js 14 Auth-free: Task management (Prisma ORM .sqlite)
-- Next.js 14 Laravel API
-- React 18 local Task management
-- React 18 Task Laravel API
+- 🚧 [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
+- Laravel x10 Task management API
 
 ## Mobile apps
 - React Native
