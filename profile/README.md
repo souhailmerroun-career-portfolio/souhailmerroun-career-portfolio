@@ -19,7 +19,7 @@ Work samples and skills.
 - React 18 Task Laravel API
 
 ### Next.js
-- 🚧 [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
+- ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
 - Next.js 14 Auth-free: Task management (Prisma ORM .sqlite)
 - Next.js 14 Laravel API
 
