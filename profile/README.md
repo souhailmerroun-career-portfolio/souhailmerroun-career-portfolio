@@ -15,7 +15,7 @@ Work samples and skills.
 
 ### Next.js
 - ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
-- Next.js 14 Style-free Auth-free - Task management (Prisma)
+- [Next.js 14 Style-free Auth-free - Task management (Prisma)](https://github.com/souhailmerroun-career-portfolio/nextjs-14-tasks)
 - Next.js 14 Style-free Auth-free - Task management (Mock API)
 
 ### React 18.2
