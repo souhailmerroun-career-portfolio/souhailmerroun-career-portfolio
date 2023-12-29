@@ -13,15 +13,15 @@ Work samples and skills.
 
 ## Web apps
 
+### Next.js
+- ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
+- Next.js 14 Style-free Auth-free - Task management (Prisma)
+- Next.js 14 Style-free Auth-free - Task management (Mock API)
+
 ### React 18.2
 - 🚧 YouTube Clone (react-router-v6)
 - React 18 local Task management
 - React 18 Task Laravel API
-
-### Next.js
-- ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
-- Next.js 14 Auth-free: Task management (Prisma ORM .sqlite)
-- Next.js 14 Laravel API
 
 ### Laravelx10 (valid until 6th August 2024)
 - ✅ [fllmorocco/open app](https://github.com/fllmorocco-org/open) (Closed source / Private demo)
