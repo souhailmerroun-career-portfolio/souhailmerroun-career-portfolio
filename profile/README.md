@@ -30,6 +30,9 @@ Work samples and skills.
 - 🚧 [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
 - Laravel x10 Task management API
 
+## Scrapping
+- ✅ [Shotgun Events](https://github.com/souhailmerroun-poc/shotgun) 
+
 ## Mobile apps
 - React Native
 
