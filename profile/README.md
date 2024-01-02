@@ -40,7 +40,7 @@ Work samples and skills.
 - 
 
 ## Python Streamlit apps
-- ✅ [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment)
+- ✅ [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment) (Salary Breakdown & Projection) + (Real Estate Loan Simulator)
 - [crypto-worth](https://github.com/souhailmerroun-poc/crypto-worth)
 - [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
 
