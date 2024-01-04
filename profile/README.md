@@ -13,47 +13,33 @@ Work samples and skills.
 
 ### Next.js
 - ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
-- [Next.js 14 Style-free Auth-free - Task management (Prisma)](https://github.com/souhailmerroun-career-portfolio/nextjs-14-tasks)
-- Next.js 14 Style-free Auth-free - Task management (Mock API)
+- 🚧 [Next.js 14 Style-free Auth-free - Task management (Prisma)](https://github.com/souhailmerroun-career-portfolio/nextjs-14-tasks)
+- 🚧 Next.js 14 Style-free Auth-free - Task management (Mock API)
 
 ### React 18.2
 - 🚧 YouTube Clone (react-router-v6)
-- React 18 local Task management
-- React 18 Task Laravel API
+- 🚧 React 18 local Task management
+- 🚧 React 18 Task Laravel API
 
 ### Laravelx10 (valid until 6th August 2024)
 - ✅ [fllmorocco/open app](https://github.com/fllmorocco-org/open) (Closed source / Private demo)
 - ✅ [kitefor.events](https://github.com/skedle-for-events/laravel-v1) (Closed source / Private demo)
 - ✅🚧 [Laravel x10 Starter](https://github.com/souhailmerroun-career-portfolio/laravelx10-starter)
 - 🚧 [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
-- Laravel x10 Task management API
+- 🚧 Laravel x10 Task management API
 
 ## Scrapping
 - ✅ [Shotgun Events](https://github.com/souhailmerroun-poc/shotgun) 
 
 ## Mobile apps
-- React Native
 
 ## Langchain apps
-- 
 
 ## Python Streamlit apps
 - ✅ [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment) (Salary Breakdown & Projection) + (Real Estate Loan Simulator)
-- [crypto-worth](https://github.com/souhailmerroun-poc/crypto-worth)
-- [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
-
-## Rapid dev
-- Laravel x10 Spark for business idea validation
-- Laravel x10 Nova for dashboard
-
-## Authentification
-- Nextjs Clerk
-- Laravel x10 Spa Authentification
-
-## Billing
-- Billing Stripe Laravel
-
-## Website
-- Gatsby
-- Wordpress
+  - https://salary-saving-breakdown-2.streamlit.app/
+  - https://loan-repayment-breakdown-3.streamlit.app/
+- ✅ [crypto-worth](https://github.com/souhailmerroun-poc/crypto-worth)
+  - https://crypto-worth.streamlit.app/ 
+- 🚧 [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
 
