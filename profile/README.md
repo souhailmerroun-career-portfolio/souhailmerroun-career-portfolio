@@ -7,11 +7,11 @@ Work samples and skills.
 
 ## Timeline
 
-![Timeline](timeline.png)
+<img width="1028" alt="image" src="https://github.com/souhailmerroun-career-portfolio/.github/assets/8895242/468923a2-3be0-4ace-8489-e7bd94d343f2">
 
 ## Web apps
 
-### Next.js
+### Next.js 14
 - ✅🚧 [Next.js 14 Starter](https://github.com/souhailmerroun-career-portfolio/nextjs14-starter) incl Prisma, Playwright, Makefile
 - ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
 - 🚧 [Next.js 14 Style-free Auth-free - Task management (Prisma)](https://github.com/souhailmerroun-career-portfolio/nextjs-14-tasks)
