@@ -29,14 +29,7 @@ Work samples and skills.
 - 🚧 [Laravel x10 + Laravel UI (Bootstrap 5) - Task management](https://github.com/souhailmerroun-career-portfolio/laravel-10-tasks)
 - 🚧 Laravel x10 Task management API
 
-## Scrapping
-- ✅ [Shotgun Events](https://github.com/souhailmerroun-poc/shotgun) 
-
-## Mobile apps
-
-## Langchain apps
-
-## Python Streamlit apps
+### Python Streamlit apps
 - ✅ [real-estate-investment](https://github.com/souhailmerroun-poc/real-estate-investment) (Salary Breakdown & Projection) + (Real Estate Loan Simulator)
   - https://salary-saving-breakdown-2.streamlit.app/
   - https://loan-repayment-breakdown-3.streamlit.app/
@@ -44,3 +37,13 @@ Work samples and skills.
   - https://crypto-worth.streamlit.app/ 
 - 🚧 [sass-forecast](https://github.com/souhailmerroun-poc/saas-forecast)
 
+## Scrapping
+- ✅ [Shotgun Events](https://github.com/souhailmerroun-poc/shotgun) 
+
+## Mobile apps
+
+## Serverless apps
+- 
+
+## Langchain apps
+- 
