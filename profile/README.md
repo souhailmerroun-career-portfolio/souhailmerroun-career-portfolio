@@ -12,6 +12,7 @@ Work samples and skills.
 ## Web apps
 
 ### Next.js
+- Next.js 14 Starter incl Playwright
 - ✅ [Next.js 14 API REST Tasks](https://github.com/souhailmerroun-career-portfolio/nextjs-14-api-tasks)
 - 🚧 [Next.js 14 Style-free Auth-free - Task management (Prisma)](https://github.com/souhailmerroun-career-portfolio/nextjs-14-tasks)
 - 🚧 Next.js 14 Style-free Auth-free - Task management (Mock API)
@@ -21,7 +22,7 @@ Work samples and skills.
 - 🚧 React 18 local Task management
 - 🚧 React 18 Task Laravel API
 
-### Laravelx10 (valid until 6th August 2024)
+### Laravel 10 (valid until 6th August 2024)
 - ✅ [fllmorocco/open app](https://github.com/fllmorocco-org/open) (Closed source / Private demo)
 - ✅ [kitefor.events](https://github.com/skedle-for-events/laravel-v1) (Closed source / Private demo)
 - ✅🚧 [Laravel x10 Starter](https://github.com/souhailmerroun-career-portfolio/laravelx10-starter) incl Laravel UI (Bootstrap & Auth), Mailtrap, Makefile, Playwright, Github Actions, Heroku, Sentry, Telescope
